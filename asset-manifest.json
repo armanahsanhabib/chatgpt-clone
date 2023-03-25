@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/chatgpt-clone/static/css/main.9ff0fb18.css",
-    "main.js": "/chatgpt-clone/static/js/main.2763bd7a.js",
+    "main.css": "/chatgpt-clone/static/css/main.89a50f57.css",
+    "main.js": "/chatgpt-clone/static/js/main.56ff8a2f.js",
     "static/js/787.87bfca44.chunk.js": "/chatgpt-clone/static/js/787.87bfca44.chunk.js",
+    "static/media/logo.png": "/chatgpt-clone/static/media/logo.6f33fa75fdc8c89da06f.png",
     "index.html": "/chatgpt-clone/index.html",
-    "main.9ff0fb18.css.map": "/chatgpt-clone/static/css/main.9ff0fb18.css.map",
-    "main.2763bd7a.js.map": "/chatgpt-clone/static/js/main.2763bd7a.js.map",
+    "main.89a50f57.css.map": "/chatgpt-clone/static/css/main.89a50f57.css.map",
+    "main.56ff8a2f.js.map": "/chatgpt-clone/static/js/main.56ff8a2f.js.map",
     "787.87bfca44.chunk.js.map": "/chatgpt-clone/static/js/787.87bfca44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ff0fb18.css",
-    "static/js/main.2763bd7a.js"
+    "static/css/main.89a50f57.css",
+    "static/js/main.56ff8a2f.js"
   ]
 }
