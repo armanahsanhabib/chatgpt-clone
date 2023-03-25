@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chatgpt-clone/static/css/main.9ff0fb18.css",
+    "main.js": "/chatgpt-clone/static/js/main.2763bd7a.js",
+    "static/js/787.87bfca44.chunk.js": "/chatgpt-clone/static/js/787.87bfca44.chunk.js",
+    "index.html": "/chatgpt-clone/index.html",
+    "main.9ff0fb18.css.map": "/chatgpt-clone/static/css/main.9ff0fb18.css.map",
+    "main.2763bd7a.js.map": "/chatgpt-clone/static/js/main.2763bd7a.js.map",
+    "787.87bfca44.chunk.js.map": "/chatgpt-clone/static/js/787.87bfca44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ff0fb18.css",
+    "static/js/main.2763bd7a.js"
+  ]
+}
